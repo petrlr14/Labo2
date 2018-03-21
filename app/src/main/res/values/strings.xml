@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">Labo2</string>
+    <string name="app_name">Tennis Counter</string>
+    <string name="points_default">0</string>
+    <string name="points_player_1">0</string>
+    <string name="points_player_2">0</string>
+    <string name="boton_points">Point</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="deuce">DEUCE</string>
+    <string name="advantage">AD</string>
+    <string name="set_point">SET POINT</string>
+    <string name="reset">RESET</string>
+    <string name="wins">WINS</string>
 </resources>
